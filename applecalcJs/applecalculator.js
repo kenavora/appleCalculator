@@ -59,3 +59,5 @@ function clearAll() {
     document.getElementById("display").innerHTML = " ";
     decimalDisable(false);
 }
+
+//function
